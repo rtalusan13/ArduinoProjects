@@ -1,0 +1,32 @@
+#ifndef SevenSegment_h 
+#define SevenSegment_h 
+
+#include "Arduino.h"
+
+class SevenSegment
+{ 
+   public: 
+          SevenSegment(int pin1, int pin2, int pin3, int pin4, int pin5, int pin6, int pin7, int pin8,
+          void zero();
+          void one();
+          void two();
+          void three();
+          void four();
+          void five();
+          void six();
+          void seven();
+          void eight();
+          void nine();
+          void none();
+   private:
+          int _test;
+          int _mu;
+          int _ru;
+          int _rd;
+          int _md;
+          int _ld;
+          int _lu;
+          int _mm;
+}; 
+ 
+#endif 
