@@ -1,2 +1,2 @@
 # ArduinoProjects
-My previous Arduino Uno projects built through the Arduino C/C++ IDE.
+My Arduino Uno projects built through the Arduino C/C++ IDE.
